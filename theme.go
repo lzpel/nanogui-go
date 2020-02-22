@@ -1,7 +1,7 @@
 package nanogui
 
 import (
-	"github.com/shibukawa/nanovgo"
+	"github.com/lzpel/nanovgo"
 )
 
 type Theme struct {

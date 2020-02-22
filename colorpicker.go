@@ -2,7 +2,7 @@ package nanogui
 
 import (
 	"fmt"
-	"github.com/shibukawa/nanovgo"
+	"github.com/lzpel/nanovgo"
 )
 
 type ColorPicker struct {
